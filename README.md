@@ -1,2 +1,1 @@
-# lbm1
-git init
+git-VScode
